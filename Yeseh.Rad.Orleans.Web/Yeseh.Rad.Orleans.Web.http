@@ -1,0 +1,6 @@
+@Yeseh.Rad.Orleans.Web_HostAddress = http://localhost:5296
+
+GET {{Yeseh.Rad.Orleans.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
